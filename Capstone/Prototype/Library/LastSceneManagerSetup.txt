@@ -1,1 +1,5 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/FPS w fade in (HEadbob curse you!!!!).unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

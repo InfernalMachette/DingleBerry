@@ -1,0 +1,72 @@
+[
+	{
+		"title": "Act One Begins",
+		"tags": "",
+		"body": "The tale is just begining, our noble hero, the fine lady and devious captor take their places on the stage.Who do you listen to? \n\n[[ The Captor |The Captor]] ]]\n[[ Mabel |Mabel]] ]]\n[[ Kane |Kane]] ]]",
+		"position": {
+			"x": 76,
+			"y": 177
+		},
+		"colorID": 0
+	},
+	{
+		"title": "The Captor",
+		"tags": "",
+		"body": "[color=ff9900]I run but not because I am guilty. \nI bring her with me not as a hostage. Will she listen?[/color]\n\n[color=#000000]You move along[/color]",
+		"position": {
+			"x": 349,
+			"y": 176
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Mabel",
+		"tags": "",
+		"body": "[color=#ff0082]Kane, my prince, my knight, my king in shining armor. \r\nOh how I adore you, I miss you. \r\nYou gave my life meaning, you make my heart swell. \r\nPlease come rescue me, I miss you. \r\nI don’t know who I am without you please Kane I need you back. \r\nUnhand me! I miss him.[/color]\r\n\r\n[color=#000000][[ The Captor |The Captor]] ]][/color]",
+		"position": {
+			"x": 347,
+			"y": 457
+		},
+		"colorID": 6
+	},
+	{
+		"title": "Kane",
+		"tags": "",
+		"body": "[color=#007fff]Mabel! My light… I will come and save you from that wretched fiend! \nYou deserve to be back in our house, minding the food. \nThis peril has no place in my ladies life! \nI will save you, worry not my fragile flower I will break you free from your captors evil grasp! \nRunning is too hard on your delicate figure I worry you may be injured[/color]\n\n\n[color=ffb200][[ The Captor |The Captor]] ]][/color]",
+		"position": {
+			"x": 350,
+			"y": -110
+		},
+		"colorID": 5
+	},
+	{
+		"title": "Act Two",
+		"tags": "",
+		"body": "The Captor and Mabel are leaving Kane further behind \nTrees whisper as a breeze changes the air changes its scent \nSunlight starts to drip through the forest canopy as the dawn breaks \n\nMabel glances over her shoulder as she continues being dragged along \nShe can't quite remember the last time she saw trees so up close.\n\nKane charges harder, he swipes through the under growth leaving a trail of wrecked plants \nTheres a hard spark in his eyes.\n\nThe Captor keeps a comfortable grip on Mabel's hand, no need to squeeze. \nTheir face is neutral set but focused as they step around leaving the plants intact. \n\n[[ Mabel and Captor |On the Run]] ]]\n[[ Kane |In pursuit]] ]]",
+		"position": {
+			"x": 717,
+			"y": 172
+		},
+		"colorID": 0
+	},
+	{
+		"title": "On the Run",
+		"tags": "",
+		"body": "[color=#ff0082]Mabel: Kane… He still follows. He will surely save me. \r\nHe will take me back home, to my cooking and cleaning. \r\nI will be home again, I will be, safe.[/color]\r\n\r\n[color=#ff9900]The Captor: I run not because I am violent. \r\nHave you considered your role Mabel?[/color]\r\n\r\n[color=#ff0082]Mabel: Why would I? I am in love.[/color]",
+		"position": {
+			"x": 969,
+			"y": -39
+		},
+		"colorID": 0
+	},
+	{
+		"title": "In pursuit",
+		"tags": "",
+		"body": "[color=#007fff]This bastard, this ghoul. My lady should not be subjected to so much exertion! \nI will take her back by force. I will fight for her honor, and mine! \nHow dare Blake take her from me! She is my beloved and to take her is to slight me. \nYou have committed a great sin, you most rotten and evil being. \nTo take a lady from the man who owns her, there is no more dubious scheme!!! \nI shall tear thee in twain, with my most mighty of hands.[/color]",
+		"position": {
+			"x": 967,
+			"y": 401
+		},
+		"colorID": 0
+	}
+]
