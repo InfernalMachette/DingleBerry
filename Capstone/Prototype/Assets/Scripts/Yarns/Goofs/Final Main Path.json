@@ -1,0 +1,182 @@
+[
+	{
+		"title": "In the begining",
+		"tags": "",
+		"body": "There was a sweet and beautiful woman, who belonged to a strong and rich man. \nShe was his Mabel, He was Kane. Their love came to be at first sight and they became inseparable\nThat is until one day, Mabel was kidnapped by a mystery....\n\n[[Follow Kane |Our hero in bold Pursuit...]]\n[[ Listen to Mabel |The Damsel in distress...]]",
+		"position": {
+			"x": -460,
+			"y": 198
+		},
+		"colorID": 1
+	},
+	{
+		"title": "Our hero in bold Pursuit...",
+		"tags": "",
+		"body": "\"Mabel! My light… I will come and save you from that wretched fiend! You deserve to be back in our house, minding the food. This peril has no place in my ladies life! I will save you, worry not my fragile flower I will break you free from your captors evil grasp! Running is too hard on your delicate figure I worry you may be injured\"\n\nHis sword glints in the sunlight, a vicious blade that slices through the undergrowth leaving a trail of destruction. Animals scamper in fear at his rage\n\n[[ Follow the captor |....]] ]]\n",
+		"position": {
+			"x": -125,
+			"y": 70
+		},
+		"colorID": 0
+	},
+	{
+		"title": "....",
+		"tags": "",
+		"body": "\"I run not because I am guilty.\n\n[[ She is held |Oh sweet Mabel]] \n[[ He is furious |With great aggression]]\n",
+		"position": {
+			"x": 182,
+			"y": 197
+		},
+		"colorID": 0
+	},
+	{
+		"title": "The Damsel in distress...",
+		"tags": "",
+		"body": "\"My prince, my knight, my king in shining armor. \nOh how I adore you, I miss you. \nYou gave my life meaning, you make my heart swell. \nPlease come rescue me, I miss you. \nI don’t know who I am without you please Kane I need you back. \nFiend! unhand me! I miss him.\"\n\nShe cries sparkling tears, her long blond hair whipping in the wind as she is dragged along.\n\n[[ Follow the Captor |....]] ]]\n",
+		"position": {
+			"x": -115,
+			"y": 366
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Oh sweet Mabel",
+		"tags": "",
+		"body": "\"Kane… He still follows. He will surely save me. \nHe will take me back home, to my cooking and cleaning. \nI will be home again, I will be, safe\"\n\n[[ Do you even like it there |Of course she does]]",
+		"position": {
+			"x": 466,
+			"y": 20
+		},
+		"colorID": 0
+	},
+	{
+		"title": "With great aggression",
+		"tags": "",
+		"body": "\"This bastard, this ghoul. My lady should not be subjected to so much exertion! I will take her back by force. I will fight for her honour, and mine! How dare Blake take her from me! She is my beloved and to take her is to slight me. You have committed a great sin, you most rotten and evil being. To take a lady from the man who owns her, there is no more dubious scheme!!! I shall tear thee in twain, with my most mighty of hands.\"\n\nKane smashes through the forest, disregarding his surroundings  completely. Nothing gives him pause in the face of the loss of his Mabel.\n\n[[ He isn't thinking about anything really |He smells like sweat]]",
+		"position": {
+			"x": 476,
+			"y": 407
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Of course she does",
+		"tags": "",
+		"body": "Mabel looks confused and tilts her head slowing down. Her captor stops and looks back at her\n\"What do you mean? Of course I do.\"\n\nThe captor lets go of her hand \n\"Ok, then you can go back. You can wait for him here I'm sure he'll gladly take you home.\"\n\nShe looks over her shoulder, then back at the captor, and takes their hand silently. They continue forward together. \n\n[[ Where are we going? |Where do you want to go]]",
+		"position": {
+			"x": 787,
+			"y": 19
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Where do you want to go",
+		"tags": "",
+		"body": "\"What do you mean where do I want to go?\"\n\n\"I was just getting you out of there. You can choose where we go. Not having much of a plan will make us harder to track.\"\n\n[[ The Country |It smells like sweet grass and hot corn]] \n[[ The Mountains |It smells like cold snow and fire smoke]]",
+		"position": {
+			"x": 1064,
+			"y": 18
+		},
+		"colorID": 0
+	},
+	{
+		"title": "It smells like sweet grass and hot corn",
+		"tags": "",
+		"body": "Mabel looks out across the fields for a moment taking in the breeze. She sits down hugging her knees \n\"Why did you capture me and then let me choose where we went?\"\n\"Well I wasn't really capturing you so much as getting you out here. You really don't have to stay with me, you can go back to him if you want now I don't mind.\"\nShe looks at her captor \n\n[[ \"Whats your name?\" |They smile]]\n[[ She gets up and starts walking back in the direction they came from |They sigh]]",
+		"position": {
+			"x": 1401,
+			"y": 14
+		},
+		"colorID": 0
+	},
+	{
+		"title": "It smells like cold snow and fire smoke",
+		"tags": "",
+		"body": "She shivers and wraps her arms around herself. \nThey take off their cape and wrap it around her shoulders.\n\n\"Whats your plan from here Captor?\"\n\"I don't have one, this is your journey now Mabel.\"\n\nHer eyebrows scrunch together and she looks out across the snow around them\n\n[[ She takes off the cape handing it back and goes back towards where they came |They sigh]] \n[[ \"I think I'll stick with you\" |They smile]]",
+		"position": {
+			"x": 1394,
+			"y": 408
+		},
+		"colorID": 0
+	},
+	{
+		"title": "They smile",
+		"tags": "",
+		"body": "\"Chance\" She takes their hand and smiles back, their face falls as they look over her shoulder, They crouch preparing themselves with a sword. Mabel looks over her shoulder and sees Kane coming towards them, she cowers behind Chase with a sob. Kane raises his blade, Chance braces themselves. The sound of metal clashing together fills the space.\n\nWho wins?\n\n[[ Kane |It seemed obvious from the start]]\n[[ Chase |It was a fumble and a slip up]]",
+		"position": {
+			"x": 1750,
+			"y": 13
+		},
+		"colorID": 0
+	},
+	{
+		"title": "They sigh",
+		"tags": "",
+		"body": "Mabel is smiling, she opens her arms running towards Kane, Kane doesn't slow, and she falls with a confused and hurt expression. Kane continues forward blood splattered across his face \n\"You rotted her, ruined her life! My blade will taste your blood!\"\nThe Fiend crouches, then leaps, swinging their blade down towards him. The sounds of clashing metal fills the air\n\nWho wins?\n\n[[ The Hero |Are you sure about that]] \n[[ The Fiend |But at what cost]]",
+		"position": {
+			"x": 1751,
+			"y": 400
+		},
+		"colorID": 0
+	},
+	{
+		"title": "He smells like sweat",
+		"tags": "",
+		"body": "His sword slicing through the air now. It has become a hunt. His breath rushing out of him harsh with rage. Rock cracks under his feet \n\n[[ Thud, thud, [b]THUD[/b] |He spots them just up ahead]]",
+		"position": {
+			"x": 770,
+			"y": 413
+		},
+		"colorID": 0
+	},
+	{
+		"title": "He spots them just up ahead",
+		"tags": "",
+		"body": "He will slaughter them both.\n\n[[ Then she comes towards him, smiling |They sigh]]\n[[ She looks at the captor curiously  |They smile]]",
+		"position": {
+			"x": 1073,
+			"y": 412
+		},
+		"colorID": 0
+	},
+	{
+		"title": "It seemed obvious from the start",
+		"tags": "",
+		"body": "Blood slowly soaks the ground. Kane kicks Chase's corpse and spits on it, then turns and picks up Mabels body walking away\nAnd they lived happily ever after.",
+		"position": {
+			"x": 2018,
+			"y": -200
+		},
+		"colorID": 0
+	},
+	{
+		"title": "It was a fumble and a slip up",
+		"tags": "",
+		"body": "Kane drops his blade, Chase theirs up to his throat staring quietly at him. Panting Kane growls at them both \n\n\"You stole her from me, you've ruined her! I'll kill you both!\"\n\"Just leave Kane. Find someone else. I will protect her as long as you try to do so.\" Mabel clasps her hands together \n\"Kane, please go. I don't want to return to you.\"\n\nThe air is thick with tension. He scoffs \n\"Fine, whore. Good luck with your bullshit life with this, queer. I'm going back to where I belong.\"\n\nHe turns on his heel, grabbing his sword and storming away \n\n\"Thank you Chase, I uh. I think I need a friend going forward, if you'd come with me?\" Chase smiled and nodded\n\"Of course, its why I came-\" Mabel hops forward hugging them and they laugh together. \n\nThe future is open",
+		"position": {
+			"x": 2021,
+			"y": 82
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Are you sure about that",
+		"tags": "",
+		"body": "The ground is soaked with blood. Kane wordlessly leaves, taking Mabel's body with him\n\nAnd they lived happily ever after",
+		"position": {
+			"x": 2021,
+			"y": 336
+		},
+		"colorID": 0
+	},
+	{
+		"title": "But at what cost",
+		"tags": "",
+		"body": "Kane's blade falls to the ground, The Fiend holds their blade to The Hero's throat. \n\n\"Are you happy with what you've done Kane?\"\n\"It was what I had to do, you spoiled her honor.\" His face is cold and violent\n\"Leave, Kane.\" Kane turns picking up his blade starting to walk away, but at the last moment spins on his heel and leaps forward. \nThe Fiend falls to the ground and it is soaked with blood. \nKane picks up Mable's body and walks away.\n\nAnd they lived happily ever after",
+		"position": {
+			"x": 2030,
+			"y": 606
+		},
+		"colorID": 0
+	}
+]

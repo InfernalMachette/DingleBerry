@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9eaff31d5ca1daf4384af6ece4a018ab
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-NZ
+  stringIDs: []
+  compilationStatus: 0
+  isSuccesfullyCompiled: 0
+  compilationErrorMessage: "Error on line 181 at position 18:\nmismatched input ']'
+    expecting FORMAT_FUNCTION_EXPRESSION_START\r\n[[ Thud, thud, [b]THUD[/b] |Caught]]\r\n
+    \                ^"
+  baseLanguage: {instanceID: 0}
+  localizations: []

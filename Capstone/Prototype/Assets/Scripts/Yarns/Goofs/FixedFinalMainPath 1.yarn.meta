@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 545bb6cb7aa546a4b99f60811306f1d9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-NZ
+  stringIDs:
+  - FixedFinalMainPath 1-Begin-0
+  - FixedFinalMainPath 1-Begin-1
+  - FixedFinalMainPath 1-Begin-2
+  - FixedFinalMainPath 1-Begin-3
+  - FixedFinalMainPath 1-Begin-4
+  - FixedFinalMainPath 1-Begin-5
+  - FixedFinalMainPath 1-Pursuit-6
+  - FixedFinalMainPath 1-Pursuit-7
+  - FixedFinalMainPath 1-Pursuit-8
+  - FixedFinalMainPath 1-Pursuit-9
+  - FixedFinalMainPath 1-Pursuit-10
+  - FixedFinalMainPath 1-Guilt-11
+  - FixedFinalMainPath 1-Guilt-12
+  - FixedFinalMainPath 1-Guilt-13
+  - FixedFinalMainPath 1-Distressed-14
+  - FixedFinalMainPath 1-Distressed-15
+  - FixedFinalMainPath 1-Distressed-16
+  - FixedFinalMainPath 1-Distressed-17
+  - FixedFinalMainPath 1-Distressed-18
+  - FixedFinalMainPath 1-Distressed-19
+  - FixedFinalMainPath 1-Distressed-20
+  - FixedFinalMainPath 1-Distressed-21
+  - FixedFinalMainPath 1-Distressed-22
+  - FixedFinalMainPath 1-Sweet-23
+  - FixedFinalMainPath 1-Sweet-24
+  - FixedFinalMainPath 1-Sweet-25
+  - FixedFinalMainPath 1-Sweet-26
+  - FixedFinalMainPath 1-Sweet-27
+  - FixedFinalMainPath 1-Agressor-28
+  - FixedFinalMainPath 1-Agressor-29
+  - FixedFinalMainPath 1-Agressor-30
+  - FixedFinalMainPath 1-Agressor-31
+  - FixedFinalMainPath 1-Naturally-32
+  - FixedFinalMainPath 1-Naturally-33
+  - FixedFinalMainPath 1-Naturally-34
+  - FixedFinalMainPath 1-Naturally-35
+  - FixedFinalMainPath 1-Naturally-36
+  - FixedFinalMainPath 1-Naturally-37
+  - FixedFinalMainPath 1-Naturally-38
+  - FixedFinalMainPath 1-Where-39
+  - FixedFinalMainPath 1-Where-40
+  - FixedFinalMainPath 1-Where-41
+  - FixedFinalMainPath 1-Where-42
+  - FixedFinalMainPath 1-Where-43
+  - FixedFinalMainPath 1-HotCorn-44
+  - FixedFinalMainPath 1-HotCorn-45
+  - FixedFinalMainPath 1-HotCorn-46
+  - FixedFinalMainPath 1-HotCorn-47
+  - FixedFinalMainPath 1-HotCorn-48
+  - FixedFinalMainPath 1-HotCorn-49
+  - FixedFinalMainPath 1-HotCorn-50
+  - FixedFinalMainPath 1-SmokeySnow-51
+  - FixedFinalMainPath 1-SmokeySnow-52
+  - FixedFinalMainPath 1-SmokeySnow-53
+  - FixedFinalMainPath 1-SmokeySnow-54
+  - FixedFinalMainPath 1-SmokeySnow-55
+  - FixedFinalMainPath 1-SmokeySnow-56
+  - FixedFinalMainPath 1-SmokeySnow-57
+  - FixedFinalMainPath 1-SmokeySnow-58
+  - FixedFinalMainPath 1-Smile-59
+  - FixedFinalMainPath 1-Smile-60
+  - FixedFinalMainPath 1-Smile-61
+  - FixedFinalMainPath 1-Smile-62
+  - FixedFinalMainPath 1-Smile-63
+  - FixedFinalMainPath 1-Sigh-64
+  - FixedFinalMainPath 1-Sigh-65
+  - FixedFinalMainPath 1-Sigh-66
+  - FixedFinalMainPath 1-Sigh-67
+  - FixedFinalMainPath 1-Sigh-68
+  - FixedFinalMainPath 1-Sigh-69
+  - FixedFinalMainPath 1-Sigh-70
+  - FixedFinalMainPath 1-Sweat-71
+  - FixedFinalMainPath 1-Sweat-72
+  - FixedFinalMainPath 1-Sweat-73
+  - FixedFinalMainPath 1-Caught-74
+  - FixedFinalMainPath 1-Caught-75
+  - FixedFinalMainPath 1-Caught-76
+  - FixedFinalMainPath 1-Caught-77
+  - FixedFinalMainPath 1-KaneWins-78
+  - FixedFinalMainPath 1-KaneWins-79
+  - FixedFinalMainPath 1-KaneWins-80
+  - FixedFinalMainPath 1-MabelLives-81
+  - FixedFinalMainPath 1-MabelLives-82
+  - FixedFinalMainPath 1-MabelLives-83
+  - FixedFinalMainPath 1-MabelLives-84
+  - FixedFinalMainPath 1-MabelLives-85
+  - FixedFinalMainPath 1-MabelLives-86
+  - FixedFinalMainPath 1-MabelLives-87
+  - FixedFinalMainPath 1-MabelLives-88
+  - FixedFinalMainPath 1-MabelLives-89
+  - FixedFinalMainPath 1-MabelLives-90
+  - FixedFinalMainPath 1-MabelLives-91
+  - FixedFinalMainPath 1-NoHero-92
+  - FixedFinalMainPath 1-NoHero-93
+  - FixedFinalMainPath 1-NoHero-94
+  - FixedFinalMainPath 1-ChaseSurvives-95
+  - FixedFinalMainPath 1-ChaseSurvives-96
+  - FixedFinalMainPath 1-ChaseSurvives-97
+  - FixedFinalMainPath 1-ChaseSurvives-98
+  - FixedFinalMainPath 1-ChaseSurvives-99
+  - FixedFinalMainPath 1-ChaseSurvives-100
+  - FixedFinalMainPath 1-ChaseSurvives-101
+  - FixedFinalMainPath 1-ChaseSurvives-102
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 545bb6cb7aa546a4b99f60811306f1d9,
+    type: 3}
+  localizations: []

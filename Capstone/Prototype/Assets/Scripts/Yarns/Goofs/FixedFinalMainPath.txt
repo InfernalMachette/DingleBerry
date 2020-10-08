@@ -1,0 +1,255 @@
+title: Begin
+tags: 
+colorID: 1
+position: -458,195
+---
+In the beginning
+There was a sweet and beautiful woman, who belonged to a strong and rich man. 
+She was his Mabel, He was Kane. Their love came to be at first sight and they became inseparable
+That is until one day, Mabel was kidnapped by a mystery....
+
+[[Follow Kane |Pursuit]]
+[[ Listen to Mabel |Distressed]]
+===
+title: Pursuit
+tags: 
+colorID: 0
+position: -125,70
+---
+We see our hero in bold Pursuit...
+
+"Mabel! My light… I will come and save you from that wretched fiend! You deserve to be back in our house, minding the food. This peril has no place in my ladies life! I will save you, worry not my fragile flower I will break you free from your captors evil grasp! Running is too hard on your delicate figure I worry you may be injured"
+
+His sword glints in the sunlight, a vicious blade that slices through the undergrowth leaving a trail of destruction. Animals scamper in fear at his rage
+
+[[ Follow the captor |Guilt]] ]][color=#ff00ff][/color]
+===
+title: Guilt
+tags: 
+colorID: 0
+position: 182,197
+---
+"I run not because I am guilty.
+
+[[ She is held |Sweet]] 
+[[ He is furious |Agressor]]
+===
+title: Distressed
+tags: 
+colorID: 0
+position: -145,363
+---
+See our Damsel in distress...
+
+Oh how I adore you, I miss you. 
+You gave my life meaning, you make my heart swell. 
+Please come rescue me, I miss you. 
+I don’t know who I am without you please Kane I need you back. 
+Fiend! unhand me! I miss him."
+
+She cries sparkling tears, her long blond hair whipping in the wind as she is dragged along.
+
+[[ Follow the Captor |Guilt]] ]]
+===
+title: Sweet
+tags: 
+colorID: 0
+position: 466,20
+---
+Oh sweet Mabel, how foolish and naive
+
+"Kane… He still follows. He will surely save me. 
+He will take me back home, to my cooking and cleaning. 
+I will be home again, I will be, safe"
+
+[[ Do you even like it there |Naturally]]
+===
+title: Agressor
+tags: 
+colorID: 0
+position: 476,407
+---
+With great aggression Kane follows
+
+"This bastard, this ghoul. My lady should not be subjected to so much exertion! I will take her back by force. I will fight for her honour, and mine! How dare Blake take her from me! She is my beloved and to take her is to slight me. You have committed a great sin, you most rotten and evil being. To take a lady from the man who owns her, there is no more dubious scheme!!! I shall tear thee in twain, with my most mighty of hands."
+
+Kane smashes through the forest, disregarding his surroundings  completely. Nothing gives him pause in the face of the loss of his Mabel.
+
+[[ He isn't thinking about anything really |Sweat]]
+===
+title: Naturally
+tags: 
+colorID: 0
+position: 785,23
+---
+What a silly question
+
+Mabel looks confused and tilts her head slowing down. Her captor stops and looks back at her
+"What do you mean? Of course I do."
+
+The captor lets go of her hand 
+"Ok, then you can go back. You can wait for him here I'm sure he'll gladly take you home."
+
+She looks over her shoulder, then back at the captor, and takes their hand silently. They continue forward together. 
+
+[[ Where are we going? |Where]]
+===
+title: Where
+tags: 
+colorID: 0
+position: 1064,18
+---
+"Where do you want to go?" the captor asks 
+
+"What do you mean where do I want to go?"
+
+"I was just getting you out of there. You can choose where we go. Not having much of a plan will make us harder to track."
+
+[[ The Country |HotCorn]] 
+[[ The Mountains |SmokeySnow]]
+===
+title: HotCorn
+tags: 
+colorID: 0
+position: 1401,14
+---
+It smells like sweet grass and hot corn
+
+Mabel looks out across the fields for a moment taking in the breeze. She sits down hugging her knees 
+"Why did you capture me and then let me choose where we went?"
+"Well I wasn't really capturing you so much as getting you out here. You really don't have to stay with me, you can go back to him if you want now I don't mind."
+She looks at her captor 
+
+[[ "Whats your name?" |Smile]]
+[[ She gets up and starts walking back in the direction they came from |Sigh]]
+===
+title: SmokeySnow
+tags: 
+colorID: 0
+position: 1394,408
+---
+The snow is cold and the smell of fire smoke drifts from a distance 
+
+She shivers and wraps her arms around herself. 
+They take off their cape and wrap it around her shoulders.
+
+"Whats your plan from here Captor?"
+"I don't have one, this is your journey now Mabel."
+
+Her eyebrows scrunch together and she looks out across the snow around them
+
+[[ She takes off the cape handing it back and goes back towards where they came |Sigh]] 
+[[ "I think I'll stick with you" |Smile]]
+===
+title: Smile
+tags: 
+colorID: 0
+position: 1750,13
+---
+They smile
+"Chance" She takes their hand and smiles back, their face falls as they look over her shoulder, They crouch preparing themselves with a sword. Mabel looks over her shoulder and sees Kane coming towards them, she cowers behind Chase with a sob. Kane raises his blade, Chance braces themselves. The sound of metal clashing together fills the space.
+
+Who wins?
+
+[[ Kane |KaneWins]]
+[[ Chase |MabelLives]]
+===
+title: Sigh
+tags: 
+colorID: 0
+position: 1751,400
+---
+They Sigh
+Mabel is smiling, she opens her arms running towards Kane, Kane doesn't slow, and she falls with a confused and hurt expression. Kane continues forward blood splattered across his face 
+"You rotted her, ruined her life! My blade will taste your blood!"
+The Fiend crouches, then leaps, swinging their blade down towards him. The sounds of clashing metal fills the air
+
+Who wins?
+
+[[ The Hero |NoHero]] 
+[[ The Fiend |ChaseSurvives]]
+===
+title: Sweat
+tags: 
+colorID: 0
+position: 770,413
+---
+He smells like sweat
+
+His sword slicing through the air now. It has become a hunt. His breath rushing out of him harsh with rage. Rock cracks under his feet 
+
+[[ Thud, thud, [b]THUD[/b] |Caught]]
+===
+title: Caught
+tags: 
+colorID: 0
+position: 1073,412
+---
+He spots them just up ahead
+He will slaughter them both.
+
+[[ Then she comes towards him, smiling |Sigh]]
+[[ She looks at the captor curiously  |Smile]]
+===
+title: KaneWins
+tags: 
+colorID: 0
+position: 2018,-200
+---
+It seemed obvious from the start
+
+Blood slowly soaks the ground. Kane kicks Chase's corpse and spits on it, then turns and picks up Mabels body walking away
+And they lived happily ever after.
+===
+title: MabelLives
+tags: 
+colorID: 0
+position: 2021,82
+---
+It was a fumble and a slip up
+
+Kane drops his blade, Chase theirs up to his throat staring quietly at him. Panting Kane growls at them both 
+
+"You stole her from me, you've ruined her! I'll kill you both!"
+"Just leave Kane. Find someone else. I will protect her as long as you try to do so." Mabel clasps her hands together 
+"Kane, please go. I don't want to return to you."
+
+The air is thick with tension. He scoffs 
+"Fine, whore. Good luck with your bullshit life with this, queer. I'm going back to where I belong."
+
+He turns on his heel, grabbing his sword and storming away 
+
+"Thank you Chase, I uh. I think I need a friend going forward, if you'd come with me?" Chase smiled and nodded
+"Of course, its why I came-" Mabel hops forward hugging them and they laugh together. 
+
+The future is open
+===
+title: NoHero
+tags: 
+colorID: 0
+position: 2021,336
+---
+It was merciless
+
+The ground is soaked with blood. Kane wordlessly leaves, taking Mabel's body with him
+
+And they lived happily ever after
+===
+title: ChaseSurvives
+tags: 
+colorID: 0
+position: 2030,606
+---
+But at what cost
+Kane's blade falls to the ground, The Fiend holds their blade to The Hero's throat. 
+
+"Are you happy with what you've done Kane?"
+"It was what I had to do, you spoiled her honor." His face is cold and violent
+"Leave, Kane." Kane stares down the blade at The Fiend, and jams his head forward slitting his own throat 
+
+The Fiend stares in shock, letting Kane fall to the ground. They let out a soft sob
+
+Two graves lay next to each other, marked simply with crosses by sun down 
+
+And they lived happily ever after
+===
