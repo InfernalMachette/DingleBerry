@@ -30,7 +30,6 @@ using UnityEngine.Events;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
-using Yarn.Unity;
 using CsvHelper;
 using System;
 
